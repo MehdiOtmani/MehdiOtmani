@@ -13,6 +13,7 @@ I'm **Mehdi El Otmani** a **Spring Boot Backend Engineer** with a passion for bu
 ## 🌟 **Outside of Tech**
 - **Swimming:** Enjoying laps in the pool to stay active and refreshed.
 - **FIFA:** Competing in strategic matches and enjoying the game.
-
+  
+**I am currently learning JavaScript and Angular** to broaden my development skills.
 Feel free to explore my repositories, and let’s connect to discuss exciting projects or share ideas!
 
