@@ -6,6 +6,10 @@ I'm **Mehdi El Otmani** a **Spring Boot Backend Engineer** with a passion for bu
 - **Backend Development:** Specializing in Spring Boot to design and implement scalable backend solutions.
 - **Data Engineering:** Focusing on managing and analyzing data to drive valuable insights.
 
+## 📚 **Currently Learning**
+- **JavaScript:** Expanding my skill set to include modern front-end technologies.
+- **Angular:** Diving into Angular to build dynamic and responsive web applications.
+
 ## 💻 **Interests**
 - **Competitive Programming:** Continuously improving problem-solving skills through coding challenges.
 - **System Design:** Enjoying the process of designing effective and scalable systems.
@@ -13,7 +17,5 @@ I'm **Mehdi El Otmani** a **Spring Boot Backend Engineer** with a passion for bu
 ## 🌟 **Outside of Tech**
 - **Swimming:** Enjoying laps in the pool to stay active and refreshed.
 - **FIFA:** Competing in strategic matches and enjoying the game.
-  
-**I am currently learning JavaScript and Angular** to broaden my development skills.
-Feel free to explore my repositories, and let’s connect to discuss exciting projects or share ideas!
 
+Feel free to explore my repositories, and let’s connect to discuss exciting projects or share ideas!
