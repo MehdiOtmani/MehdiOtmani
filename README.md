@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Mehdi El Otmani**a**Spring Boot Backend Engineer** with a passion for building scalable systems and delving into data engineering. My work revolves around creating efficient backend solutions and exploring innovative software architecture.
+I'm **Mehdi El Otmani** a **Spring Boot Backend Engineer** with a passion for building scalable systems and delving into data engineering. My work revolves around creating efficient backend solutions and exploring innovative software architecture.
 
 ## 🚀 **What I Do**
 - **Backend Development:** Specializing in Spring Boot to design and implement scalable backend solutions.
