@@ -7,7 +7,7 @@ I'm **Mehdi El Otmani** a **Spring Boot Backend Engineer** with a passion for **
 - **Data Engineering:** Focusing on managing and analyzing data to drive valuable insights.
 
 ## 📚 Currently Learning
-- **GraphQL:** Exploring GraphQL to improve my data querying capabilities and API skillset. I’m focusing on GraphQL for its flexibility in requesting only the data needed and its potential to streamline and optimize API interactions.
+- **GraphQL:** Exploring GraphQL to improve my data querying capabilities and for its flexibility in requesting only the data needed and its potential to streamline and optimize API interactions.
 - **Angular:** Diving into Angular to build dynamic and responsive web applications.
 
 ## 💻 **Interests**
