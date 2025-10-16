@@ -54,26 +54,13 @@
 ---
 
 ### 💼 What I Do
-role: Linux SysAdmin & DevOps Engineer
-specialization:
 
-Linux server administration & hardening
+**Linux SysAdmin & SRE Engineer** specializing in infrastructure automation, monitoring, and security.
 
-Infrastructure as Code (Terraform, Ansible)
-
-Monitoring & alerting (Zabbix, Prometheus)
-
-Virtualization & containerization (Proxmox, Docker, K8s)
-
-CI/CD pipeline design & optimization
-
-Security tooling & incident response (Wazuh, MISP, TheHive)
-daily_tasks:
-
-Automated deployment across 15+ production VMs
-
-Infrastructure monitoring & performance tuning
-
-Configuration management at scale
-
-System troubleshooting & optimization
+**Core Focus Areas:**
+- 🐧 Linux server administration (Ubuntu, RHEL, Debian)
+- 🤖 Infrastructure automation with Ansible & Terraform
+- 📊 Monitoring infrastructure with Zabbix, Prometheus, Grafana
+- 🐳 Containerization & orchestration (Docker, Kubernetes)
+- 🔐 Security tooling (Wazuh, MISP, TheHive)
+- 🚀 CI/CD pipeline optimization (GitLab, GitHub Actions)
