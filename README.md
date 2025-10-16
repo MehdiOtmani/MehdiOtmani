@@ -61,9 +61,14 @@
 <td align="center" width="50%">
 
 **✅ Certified**
-<img src="https://img.shields.io/badge/Oracle_Linux_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/OCI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-**System Administrator**
+
+<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white" />
+
+**Foundations Associate**
+
+<img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=flat-square&logo=oracle&logoColor=white" />
+
+**Professional System Administrator**
 
 </td>
 <td align="center" width="50%">
