@@ -54,6 +54,30 @@
 ---
 
 ---
+### 🎓 Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**✅ Certified**
+
+<img src="https://img.shields.io/badge/Oracle_Linux_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
+
+**System Administrator**
+
+</td>
+<td align="center" width="50%">
+
+**🎯 In Progress**
+
+RHCSA • CKA 
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 💼 What I Do
 
