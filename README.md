@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Cloud & Security**
+**Cloud**
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/OCI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -53,14 +53,35 @@
 
 ---
 
+---
+
 ### 💼 What I Do
 
-**Linux SysAdmin & SRE Engineer** specializing in infrastructure automation, monitoring, and security.
+<table>
+<tr>
+<td width="50%">
 
-**Core Focus Areas:**
-- 🐧 Linux server administration (Ubuntu, RHEL, Debian)
-- 🤖 Infrastructure automation with Ansible & Terraform
-- 📊 Monitoring infrastructure with Zabbix, Prometheus, Grafana
-- 🐳 Containerization & orchestration (Docker, Kubernetes)
-- 🔐 Security tooling (Wazuh, MISP, TheHive)
-- 🚀 CI/CD pipeline optimization (GitLab, GitHub Actions)
+**🔧 Core Expertise**
+- Linux server administration & hardening
+- Infrastructure as Code (Terraform, Ansible)
+- Monitoring & alerting (Zabbix, Prometheus,Grafana)
+- Virtualization (Proxmox, Docker, Kubernetes)
+- CI/CD pipeline design & optimization
+
+
+</td>
+<td width="50%">
+
+**📈 Daily Work**
+- Automated deployment across production
+- Infrastructure monitoring & performance tuning
+- Configuration management at scale
+- System troubleshooting & optimization
+- Security incident response & hardening
+
+</td>
+</tr>
+</table>
+
+
+---
