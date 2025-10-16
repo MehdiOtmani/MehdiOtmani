@@ -70,8 +70,6 @@
 
 ![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![CKA](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 ---
 
