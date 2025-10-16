@@ -6,7 +6,8 @@
 
 ### 🚀 Featured Projects
 
-[![Zabbix Ansible](https://github-readme-stats.vercel.app/api/pin/?username=elmehdielotmani&repo=zabbix-ansible-automation&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/elmehdielotmani/zabbix-ansible-automation)
+[![Zabbix Ansible](https://github-readme-stats.vercel.app/api/pin/?username=elmehdielotmani&repo=zabbix-ansible-automation&theme=radical&hide_border=true&bg_color=0d1117)]
+(https://github.com/MehdiOtmani/zabbix-ansible-automation)
 
 ---
 
