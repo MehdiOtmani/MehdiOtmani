@@ -53,7 +53,6 @@
 
 ---
 
----
 ### 🎓 Certifications
 
 <table>
@@ -62,9 +61,13 @@
 
 **✅ Certified**
 
+---
+
 <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
 **Foundations Associate**
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
@@ -72,7 +75,6 @@
 
 </td>
 <td align="center" width="50%">
-
 **🎯 In Progress**
 
 RHCSA • CKA 
