@@ -48,12 +48,32 @@
 **Cloud & Security**
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/MISP-1C4E80?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
 
 ### 💼 What I Do
+role: Linux SysAdmin & DevOps Engineer
+specialization:
 
+Linux server administration & hardening
+
+Infrastructure as Code (Terraform, Ansible)
+
+Monitoring & alerting (Zabbix, Prometheus)
+
+Virtualization & containerization (Proxmox, Docker, K8s)
+
+CI/CD pipeline design & optimization
+
+Security tooling & incident response (Wazuh, MISP, TheHive)
+daily_tasks:
+
+Automated deployment across 15+ production VMs
+
+Infrastructure monitoring & performance tuning
+
+Configuration management at scale
+
+System troubleshooting & optimization
