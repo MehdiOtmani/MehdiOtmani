@@ -59,29 +59,19 @@
 <tr>
 <td align="center" width="50%">
 
+### 🎓 Certifications
+
 **✅ Certified**
 
----
+![Oracle OCI Foundations](https://img.shields.io/badge/OCI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Linux](https://img.shields.io/badge/Oracle_Linux_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white" />
+**🎯 Pursuing**
 
-**Foundations Associate**
+![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=flat-square&logo=oracle&logoColor=white" />
-
-**Professional System Administrator**
-
-</td>
-<td align="center" width="50%">
-**🎯 In Progress**
-
-RHCSA • CKA 
-
-</td>
-</tr>
-</table>
 
 ---
 
