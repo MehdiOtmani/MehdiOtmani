@@ -76,7 +76,8 @@
 - Linux server administration & hardening
 - Infrastructure as Code (Terraform, Ansible)
 - Monitoring & alerting (Zabbix, Prometheus,Grafana)
-- Virtualization (Proxmox, Docker, Kubernetes)
+- Virtualization (Proxmox)
+- Containerisation and Orchestration ( Docker, Kubernetes)
 - CI/CD pipeline design & optimization
 
 
