@@ -55,12 +55,6 @@
 
 ### 🎓 Certifications
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎓 Certifications
-
 **✅ Certified**
 
 ![Oracle OCI Foundations](https://img.shields.io/badge/OCI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
