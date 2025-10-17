@@ -87,9 +87,9 @@
 **📈 Daily Work**
 - Automating production deployments using Terraform, Ansible, and CI/CD pipelines
 - Monitoring infrastructure health and fine-tuning performance with Prometheus, Grafana, and Zabbix
-- Managing system configurations at scale across virtualized and containerized environments
-- Diagnosing and resolving complex incidents under pressure to maintain uptime and reliability
-- Implementing security hardening for Linux systems, containers, and cloud resources to meet compliance standards
+- Orchestrating containerized workloads with Kubernetes across hybrid environments
+- Troubleshooting complex incidents to maintain uptime, reliability, and performance
+- Implementing advanced security hardening for Linux systems, containers, and cloud infrastructure
 
 </td>
 </tr>
