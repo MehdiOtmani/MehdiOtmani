@@ -85,11 +85,11 @@
 <td width="50%">
 
 **📈 Daily Work**
-- Automated deployment across production
-- Infrastructure monitoring & performance tuning
-- Configuration management at scale
-- System troubleshooting & optimization
-- Security incident response & hardening
+- Automating production deployments using Terraform, Ansible, and CI/CD pipelines
+- Monitoring infrastructure health and fine-tuning performance with Prometheus, Grafana, and Zabbix
+- Managing system configurations at scale across virtualized and containerized environments
+- Diagnosing and resolving complex incidents under pressure to maintain uptime and reliability
+- Implementing security hardening for Linux systems, containers, and cloud resources to meet compliance standards
 
 </td>
 </tr>
