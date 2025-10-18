@@ -98,27 +98,30 @@
 
 ---
 
+---
+
 ### 🌊 Beyond the Terminal  
 
 <table align="center">
 <tr>
 <td align="center" width="150">
-<img src="https://cdn-icons-png.flaticon.com/512/861/861512.png" width="60"/><br>
+<img src="https://cdn-icons-png.freepik.com/512/10115/10115825.png" width="60"/><br>
 <b>Surfing</b><br>
 <sub>chasing waves and clarity</sub>
 </td>
 <td align="center" width="150">
-<img src="https://cdn-icons-png.flaticon.com/512/2972/2972185.png" width="60"/><br>
+<img src="https://cdn-icons-png.freepik.com/512/3097/3097144.png" width="60"/><br>
 <b>Swimming</b><br>
 <sub>rhythm, endurance, flow</sub>
 </td>
 <td align="center" width="150">
-<img src="https://cdn-icons-png.flaticon.com/512/2963/2963708.png" width="60"/><br>
+<img src="https://cdn-icons-png.freepik.com/512/684/684908.png" width="60"/><br>
 <b>Cycling & Paddling</b><br>
 <sub>speed meets focus</sub>
 </td>
 </tr>
 </table>
+
 
 
 ---
