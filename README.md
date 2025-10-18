@@ -96,13 +96,29 @@
 </table>
 ---
 
-### 🌊 Beyond the Terminal
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Surfing-0077B5?style=for-the-badge&logo=waves&logoColor=white" />
-<img src="https://img.shields.io/badge/Swimming-00BFFF?style=for-the-badge&logo=swim&logoColor=white" />
-<img src="https://img.shields.io/badge/Cycling_&_Paddling-228B22?style=for-the-badge&logo=bicycle&logoColor=white" />
-</p>
+### 🌊 Beyond the Terminal  
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+<img src="https://cdn-icons-png.flaticon.com/512/861/861512.png" width="60"/><br>
+<b>Surfing</b><br>
+<sub>chasing waves and clarity</sub>
+</td>
+<td align="center" width="150">
+<img src="https://cdn-icons-png.flaticon.com/512/2972/2972185.png" width="60"/><br>
+<b>Swimming</b><br>
+<sub>rhythm, endurance, flow</sub>
+</td>
+<td align="center" width="150">
+<img src="https://cdn-icons-png.flaticon.com/512/2963/2963708.png" width="60"/><br>
+<b>Cycling & Paddling</b><br>
+<sub>speed meets focus</sub>
+</td>
+</tr>
+</table>
 
 
 ---
