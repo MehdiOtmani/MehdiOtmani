@@ -105,19 +105,19 @@
 <table align="center">
 <tr>
 <td align="center" width="150">
-<img src="https://www.flaticon.com/free-icon/surfing_4722133?related_id=4722096&origin=search" width="60"/><br>
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/ce3bbdb3-35d3-423f-9460-45429a9498ff" />
 <b>Surfing</b><br>
-<sub>chasing waves and clarity</sub>
+<sub>Connecting with Nature for clarity</sub>
 </td>
 <td align="center" width="150">
-<img src="https://cdn-icons-png.freepik.com/512/3097/3097144.png" width="60"/><br>
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/e3d8e8b1-8e72-4383-80e7-0638c32a345d" />
 <b>Swimming</b><br>
-<sub>rhythm, endurance, flow</sub>
+<sub>Endurance</sub>
 </td>
 <td align="center" width="150">
-<img src="https://cdn-icons-png.freepik.com/512/684/684908.png" width="60"/><br>
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/7c833d53-b3f8-47bb-87f3-1bf8debf8c36" />
 <b>Cycling & Paddling</b><br>
-<sub>speed meets focus</sub>
+<sub>VO2 max</sub>
 </td>
 </tr>
 </table>
