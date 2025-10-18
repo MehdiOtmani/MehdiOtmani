@@ -98,7 +98,7 @@
 
 ---
 
-### 🌊🏄‍♂️ Beyond the Terminal
+### 🏄‍♂️🌊 Beyond the Terminal
 
 <table align="center">
 <tr>
