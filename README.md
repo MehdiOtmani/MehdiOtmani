@@ -94,14 +94,15 @@
 </td>
 </tr>
 </table>
+---
+
 ### 🌊 Beyond the Terminal
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/Surfing-0077B5?style=for-the-badge&logo=waves&logoColor=white" />
+<img src="https://img.shields.io/badge/Swimming-00BFFF?style=for-the-badge&logo=swim&logoColor=white" />
+<img src="https://img.shields.io/badge/Cycling_&_Paddling-228B22?style=for-the-badge&logo=bicycle&logoColor=white" />
+</p>
 
-🏄‍♂️ **Surfing** — chasing waves and clarity  
-🏊‍♂️ **Swimming** — endurance, rhythm, flow  
-🚴‍♂️ **Cycling & Paddling** — speed meets focus  
-
-</div>
 
 ---
