@@ -94,6 +94,14 @@
 </td>
 </tr>
 </table>
+### 🌊 Beyond the Terminal
 
+<div align="center">
+
+🏄‍♂️ **Surfing** — chasing waves and clarity  
+🏊‍♂️ **Swimming** — endurance, rhythm, flow  
+🚴‍♂️ **Cycling & Paddling** — speed meets focus  
+
+</div>
 
 ---
