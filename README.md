@@ -105,7 +105,7 @@
 <table align="center">
 <tr>
 <td align="center" width="150">
-<img src="[https://cdn-icons-png.freepik.com/512/10115/10115825.png](https://www.flaticon.com/free-icon/surfing_4722133?related_id=4722096&origin=search)" width="60"/><br>
+<img src="(https://www.flaticon.com/free-icon/surfing_4722133?related_id=4722096&origin=search)" width="60"/><br>
 <b>Surfing</b><br>
 <sub>chasing waves and clarity</sub>
 </td>
