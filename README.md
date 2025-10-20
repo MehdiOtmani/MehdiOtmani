@@ -113,7 +113,7 @@
 </td>
 <td align="center" width="150">
 <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/7c833d53-b3f8-47bb-87f3-1bf8debf8c36" />
-<b>Cycling & Paddling</b><br>
+<b>Cycling</b><br>
 
 </td>
 </tr>
