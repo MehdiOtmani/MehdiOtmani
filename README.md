@@ -102,17 +102,17 @@
 <table align="center">
 <tr>
 <td align="center" width="150">
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/ce3bbdb3-35d3-423f-9460-45429a9498ff" />
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/ce3fb11d-b1fc-4fb1-aab2-cdd74d134a6a" />
 <b>Surfing</b><br>
 
 </td>
 <td align="center" width="150">
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/e3d8e8b1-8e72-4383-80e7-0638c32a345d" />
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/ee9e7dda-1c0f-41c1-b45c-93cc90bd33b5" />
 <b>Swimming</b><br>
 
 </td>
 <td align="center" width="150">
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/7c833d53-b3f8-47bb-87f3-1bf8debf8c36" />
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/1ede7035-82ed-4b9e-8fbb-73721b780106" />
 <b>Cycling</b><br>
 
 </td>
